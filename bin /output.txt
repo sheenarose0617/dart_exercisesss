@@ -1,0 +1,6 @@
+Student Name: Sheena Rose Bagaslao
+Number of Subjects: 6
+Tuition per Subject: 850.5
+Scholarship Status: false
+Total Tuition: 5103
+Is the total tuition over 5000? true
